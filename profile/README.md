@@ -1,8 +1,8 @@
 # Graphix
 
-Welcome to Graphix, where innovation meets design. We specialize in tailoring digital solutions that empower businesses, drive growth, and connect with audiences like never before.
-
 ![Graphix Banner](/profile/Graphix-Banner.jpg)
+
+Welcome to Graphix, where innovation meets design. We specialize in tailoring digital solutions that empower businesses, drive growth, and connect with audiences like never before.
 
 ## Our Services 🚀
 
